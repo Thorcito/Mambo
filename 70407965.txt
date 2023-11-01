@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"PEC11R-4215F-S0012";"";
+"TraceParts.PartVersion";"1.0.2";"";
+"SUPPLIER";"Bourns Electronics";"";
+"TraceParts.PartStatus";"Published";"";
+"ALLIED_STOCK_NUMBER";"70407965";"";
+"TraceParts.PartNumber";"10-11012018-124976";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"Encoder 15mm Shaft w/Switch 12 pulses";"";
+"TraceParts.InstanceId";"10-11012018-1249763SUYR0IG8Z2AAK0MKYU98PF1H";"";
+"TraceParts.PartTitle";"Encoder 15mm Shaft w/Switch 12 pulses";"";
+"TraceParts.PartStatusId";"";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.ClassPath";"/ALLIED_ELECTRONICS/PSSS_432964/PSS_433025/PSF_433026/";"";
